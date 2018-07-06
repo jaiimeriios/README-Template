@@ -82,3 +82,9 @@ You are welcome to contribute, and use this as you please, this is what GitHub i
 ## Acknowledgments
 
 * Jaime Alejandro Rios
+
+## Version
+
+0.9
+
+(ad images)
