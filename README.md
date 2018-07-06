@@ -1,4 +1,4 @@
-#README.md Template - Project Title
+# README.md Template - Project Title
 
 One Paragraph of project description goes here...
 
@@ -69,7 +69,7 @@ Please read [CONTRIBUTING-File.md](https://github.com/jaiimeriios) for details o
 ## Versioning
 
 We use [GitHub](https://github.com/) for versioning.
-For the versions available, see the [This repository](https://github.com/).
+For the versions available, see the [This repository](https://github.com/jaiimeriios/README-Template).
 
 ## Authors
 
