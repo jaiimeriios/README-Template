@@ -89,4 +89,4 @@ You are welcome to contribute, and use this as you please, this is what GitHub i
 
 ## Image
 
-![Image]()
+![Image](https://raw.githubusercontent.com/jaiimeriios/README-Template/master/beach.jpeg)
