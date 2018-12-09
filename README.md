@@ -68,7 +68,7 @@ Please read [CONTRIBUTING-File.md](https://github.com/jaiimeriios) for details o
 
 ## Versioning
 
-We use [GitHub](https://github.com/) for versioning.
+I use [GitHub](https://github.com/) for versioning.
 For the versions available, see the [This repository](https://github.com/jaiimeriios/README-Template).
 
 ## Authors
@@ -85,8 +85,8 @@ You are welcome to contribute, and use this as you please, this is what GitHub i
 
 ## Version
 
-0.9
+1.0
 
 ## Image
 
-![Image](https://raw.githubusercontent.com/jaiimeriios/README-Template/master/beach.jpeg)
+![Beach Coast Line](https://raw.githubusercontent.com/jaiimeriios/README-Template/master/beach.jpeg)
